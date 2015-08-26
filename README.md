@@ -9,7 +9,7 @@ It's very simple actually. Just write function, give the URLs, define your callb
 
 ```php
 multiCurl($URLS, function(){
-    //Do want do you want!
+    //Do what do you want!
 });
 ```
 
